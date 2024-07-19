@@ -1,0 +1,37 @@
+:root {
+  --black: #1C1C21;
+  --white: #FFFFFF;
+
+  --gray: #D0D0D8;
+  --dark-gray: #939393;
+  --pale-gray: #F5F5F7;
+
+  --red: #EC6259;
+  --pale-red: #FDEEED;
+
+  --green: #47D867;
+  --pale-green: #E6FAEA;
+
+  --orange: #FF8B37;
+  --dark-orange: #E87928;
+  --light-orange: #FFAC70;
+  --pale-orange: #FFF3EB;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

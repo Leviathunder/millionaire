@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "description": "What is the capital of France?",
+      "answers": [
+        {
+          "id": "a1",
+          "description": "Berlin"
+        },
+        {
+          "id": "a2",
+          "description": "Madrid"
+        },
+        {
+          "id": "a3",
+          "description": "Paris"
+        },
+        {
+          "id": "a4",
+          "description": "Lisbon"
+        }
+      ],
+      "correctAnswer": "a3"
+    },
+    {
+      "description": "Which element has the chemical symbol 'O'?",
+      "answers": [
+        {
+          "id": "b1",
+          "description": "Oxygen"
+        },
+        {
+          "id": "b2",
+          "description": "Gold"
+        },
+        {
+          "id": "b3",
+          "description": "Silver"
+        },
+        {
+          "id": "b4",
+          "description": "Hydrogen"
+        }
+      ],
+      "correctAnswer": "b1"
+    },
+    {
+      "description": "What is the largest planet in our solar system?",
+      "answers": [
+        {
+          "id": "c1",
+          "description": "Earth"
+        },
+        {
+          "id": "c2",
+          "description": "Mars"
+        },
+        {
+          "id": "c3",
+          "description": "Jupiter"
+        },
+        {
+          "id": "c4",
+          "description": "Saturn"
+        }
+      ],
+      "correctAnswer": "c3"
+    },
+    {
+      "description": "Which country is known as the Land of the Rising Sun?",
+      "answers": [
+        {
+          "id": "d1",
+          "description": "China"
+        },
+        {
+          "id": "d2",
+          "description": "Japan"
+        },
+        {
+          "id": "d3",
+          "description": "South Korea"
+        },
+        {
+          "id": "d4",
+          "description": "Thailand"
+        }
+      ],
+      "correctAnswer": "d2"
+    },
+    {
+      "description": "What is the chemical formula for water?",
+      "answers": [
+        {
+          "id": "e1",
+          "description": "CO2"
+        },
+        {
+          "id": "e2",
+          "description": "H2O"
+        },
+        {
+          "id": "e3",
+          "description": "O2"
+        },
+        {
+          "id": "e4",
+          "description": "CH4"
+        }
+      ],
+      "correctAnswer": "e2"
+    },
+    {
+      "description": "Who wrote 'To Kill a Mockingbird'?",
+      "answers": [
+        {
+          "id": "f1",
+          "description": "Mark Twain"
+        },
+        {
+          "id": "f2",
+          "description": "Harper Lee"
+        },
+        {
+          "id": "f3",
+          "description": "J.K. Rowling"
+        },
+        {
+          "id": "f4",
+          "description": "Ernest Hemingway"
+        }
+      ],
+      "correctAnswer": "f2"
+    },
+    {
+      "description": "What is the speed of light in a vacuum?",
+      "answers": [
+        {
+          "id": "g1",
+          "description": "300,000 km/s"
+        },
+        {
+          "id": "g2",
+          "description": "150,000 km/s"
+        },
+        {
+          "id": "g3",
+          "description": "100,000 km/s"
+        },
+        {
+          "id": "g4",
+          "description": "200,000 km/s"
+        }
+      ],
+      "correctAnswer": "g1"
+    },
+    {
+      "description": "Who is known as the father of modern physics?",
+      "answers": [
+        {
+          "id": "h1",
+          "description": "Isaac Newton"
+        },
+        {
+          "id": "h2",
+          "description": "Albert Einstein"
+        },
+        {
+          "id": "h3",
+          "description": "Galileo Galilei"
+        },
+        {
+          "id": "h4",
+          "description": "Niels Bohr"
+        }
+      ],
+      "correctAnswer": "h2"
+    },
+    {
+      "description": "What is the largest mammal in the world?",
+      "answers": [
+        {
+          "id": "i1",
+          "description": "Elephant"
+        },
+        {
+          "id": "i2",
+          "description": "Blue Whale"
+        },
+        {
+          "id": "i3",
+          "description": "Giraffe"
+        },
+        {
+          "id": "i4",
+          "description": "Hippopotamus"
+        }
+      ],
+      "correctAnswer": "i2"
+    },
+    {
+      "description": "What is the main ingredient in traditional Japanese miso soup?",
+      "answers": [
+        {
+          "id": "j1",
+          "description": "Soybeans"
+        },
+        {
+          "id": "j2",
+          "description": "Rice"
+        },
+        {
+          "id": "j3",
+          "description": "Fish"
+        },
+        {
+          "id": "j4",
+          "description": "Seaweed"
+        }
+      ],
+      "correctAnswer": "j1"
+    },
+    {
+      "description": "What is the capital of Australia?",
+      "answers": [
+        {
+          "id": "k1",
+          "description": "Sydney"
+        },
+        {
+          "id": "k2",
+          "description": "Melbourne"
+        },
+        {
+          "id": "k3",
+          "description": "Canberra"
+        },
+        {
+          "id": "k4",
+          "description": "Brisbane"
+        }
+      ],
+      "correctAnswer": "k3"
+    },
+    {
+      "description": "Who have painted the Mona Lisa?",
+      "answers": [
+        {
+          "id": "l1",
+          "description": "Vincent van Gogh"
+        },
+        {
+          "id": "l2",
+          "description": "Leonardo da Vinci"
+        },
+        {
+          "id": "l3",
+          "description": "Pablo Picasso"
+        },
+        {
+          "id": "l4",
+          "description": "Claude Monet"
+        }
+      ],
+      "correctAnswer": "l2"
+    }
+  ],
+  "scores": [
+    500,   1000,    2000,
+    4000,   8000,   16000,
+    32000,  64000,  125000,
+    250000, 500000, 1000000
+  ]
+}
